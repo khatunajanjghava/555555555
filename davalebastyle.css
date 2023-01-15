@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;1,200&display=swap');
+
+#divb {
+
+    margin: 20px;
+    padding: 20px;
+    width: 100%;
+    background-color: rgba(153, 205, 50, 0.6) ;
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+    
+}
+.div-sm {
+    width: 180px;
+    height:160px;
+    border: 1px solid black;
+    border-radius:15px;
+    text-align: center;
+  }
+ 
+     div #div1:hover { background-color: aqua;
+      width: 200px;        
+      height: 180px;
+      border-radius: 15px;
+      border-style:groove;
+      border-color: rgba(233, 11, 11, 0.548);
+   }
+     div #div2:hover { background-color: aqua;
+    width: 200px;        
+    height: 180px;
+    border-radius: 15px;
+    border-style:groove;
+    border-color: rgba(233, 11, 11, 0.548);
+   }
+   div #div3:hover { background-color: aqua;
+    width: 200px;        
+    height: 180px;
+    border-radius: 15px;
+    border-style:groove;
+    border-color: rgba(233, 11, 11, 0.548);
+   }
+     ul {
+    margin: 10px;
+    padding: 0px 0px 0px 10px;
+    text-align:left;
+    list-style: square;
+    font-family: 'Nunito', sans-serif;
+    font-style:italic;
+    font-size:16px;
+   }
+
+      
+     #button1 {
+      
+      color: brown;
+      background-color:yellow;
+      width: 70px;
+      height: 40px;
+      border-radius: 15px;
+      border-color:rgba(6, 148, 6, 0.87);
+      text-align: center;
+       }
+       
+      #button1:hover {
+      color: blue;
+      font-size: 20px;
+      background-color: red;
+      width:90px;
+      height: 60px;
+
+     }
+     #div4 {
+     text-align: center;
+     }
+    
+   .head{
+    font-family: 'Nunito', sans-serif;
+    font-size:30px;
+    }
+
+     body{
+     background-color: rgb(204, 248, 234);
+
+     }
